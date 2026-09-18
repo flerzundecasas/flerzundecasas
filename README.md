@@ -4,7 +4,6 @@
 
 ### Desarrollador Full Stack · PHP & Laravel · Next.js
 
-[![Portfolio](https://img.shields.io/badge/Sitios-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://psickate.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Francesc.lerzunde@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51974992338)
 
